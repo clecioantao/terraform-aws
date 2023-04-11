@@ -1,0 +1,6 @@
+Lista de repos que utilizaremos no decorrer do curso
+
+https://github.com/tjrohweder/terraform-curso-ambiente
+https://github.com/tjrohweder/terraform-aws-ec2
+https://github.com/tjrohweder/terraform-aws-vpc
+https://github.com/tjrohweder/terraform-curso
